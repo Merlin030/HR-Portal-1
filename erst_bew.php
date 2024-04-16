@@ -8,7 +8,7 @@
     <script src="bew.js"></script>
     </head>
 <body>
-    <div class="anz_nr">
+    <div class="job_id">
     <label for="job_id">Stellenanzeige-Nr.</label>
     <input type="number" name="job_id" id="job_id">
     <span></span>
